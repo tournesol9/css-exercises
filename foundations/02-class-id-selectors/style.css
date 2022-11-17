@@ -1,0 +1,22 @@
+/* stylesheet */
+.odd{
+    background-color: rgb(234, 174, 183);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#two{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0606b0;
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: hsl(120, 89%, 74%);
+}
