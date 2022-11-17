@@ -1,0 +1,17 @@
+/* style */
+
+.me-first,
+.no-me-first{
+font-family: Helvetica, "Times New Roman", sans-serif;
+font-size: 28px;
+border-color: #e9d9c3;
+}
+
+.me-first{
+background-color: hsl(0, 0%, 0%);
+color: white;
+}
+
+.no-me-first{
+background-color: rgb(236, 236, 16);
+}
