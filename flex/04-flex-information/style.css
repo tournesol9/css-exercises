@@ -7,10 +7,38 @@ img {
   height: 100px;
 }
 
+.container-big {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .title {
   font-size: 36px;
   font-weight: 900;
+  margin-bottom: 32px;
 }
+
+.container{
+  display: flex;
+  gap: 52px;
+}
+
+.one,
+.two,
+.three,
+.four {
+  flex: 1 1 200px;
+  flex-wrap: wrap; 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+}
+
 
 /* do not edit this footer */
 .footer {
